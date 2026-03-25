@@ -105,6 +105,10 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 - [LogicalDOC](https://github.com/logicaldoc/community) ★117 - LogicalDOC Community open source document management system https://www.logicaldoc.com. [☕️, GNU Lesser General Public License v3.0].
 - [Mayan EDMS](https://gitlab.com/mayan-edms/mayan-edms) - Free Open Source DMS (document management system).
 
+### Business Intelligence (SSRS/PowerBI alternatives)
+
+- [ReportBurster](https://github.com/flowkraft/reportburster) ★10 - Business Intelligence For The New Era. [Java, Server Side Public License, v 1]
+
 ### Applicant Tracking System
 
 - [FreeATS](https://github.com/freeats/freeats) ★31 - . [💎, MIT License].
